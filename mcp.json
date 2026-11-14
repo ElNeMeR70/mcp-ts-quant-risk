@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-quant-risk",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_quant_risk",
+      "description": "Execute quant-risk MCP tool"
+    }
+  ]
+}
